@@ -61,6 +61,7 @@ const bindStreamEvents = ( { subShellRl, commonTrackingParams, isSubShell, stdou
 		commandRunning = false;
 
 		// TODO handle this better
+		console.log( 'Error: ', JSON.stringify( err ) );
 		console.log( 'Error: ' + err.message );
 	} );
 
