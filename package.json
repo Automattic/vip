@@ -83,7 +83,7 @@
     "@apollo/client": "^3.3.6",
     "@automattic/vip-search-replace": "^1.0.13",
     "args": "5.0.1",
-    "chalk": "3.0.0",
+    "chalk": "4.1.0",
     "cli-table": "github:automattic/cli-table#7b14232",
     "configstore": "5.0.1",
     "debug": "4.3.1",
